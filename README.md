@@ -1,1 +1,3 @@
 # askergitcheck
+
+Chto tam asker ?
